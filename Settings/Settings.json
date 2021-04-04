@@ -1,0 +1,53 @@
+{
+  "BotSettings": {
+
+    "owner": "402887168827326474",
+    "prefix": ".",
+    "botStatus": "METE 🤍 İLAYDA",
+    "botVoiceChannelID": "827144744421425193"
+  },
+  "Roles": {
+    "BoyRole1": "826918932333985847",
+
+    "GirlRole1": "826918932333985848",
+
+    "Unregister": "826918932324679783",
+    
+    "Registerer": "826918932355088390",
+    "TagRole": "826918932346044435",
+    "Suspicious": "826918932324679782",
+    "Jail": "826918932316815428",
+    "şüpheli": "826918932324679782"
+
+
+
+
+
+
+  },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+  "ServerSettings": {
+    "ServerName": "Rivá #0104 ",
+    "ServerID": "826918931921895495",
+    "Tag": "Rivá",
+    "UnTag": "•"
+  },
+  "Channels": {
+    "RegisterChat": "826918932643315738",
+    "TagLog": "826918934820290597",
+
+    "GeneralChat": "826918933226717256"
+  },
+  "Welcome": {
+    "WelcomeChat": "826918932643315738",
+    "WelcomeName": "• İsim | Yaş"
+  }
+}
